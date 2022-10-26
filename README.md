@@ -1,1 +1,2 @@
-# Applying-cost-categories to separate billing by different application
+# Applying-cost-categories
+Separate billing by different application
